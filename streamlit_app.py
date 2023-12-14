@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from textblob import TextBlob
 import json
+import numpy as np
 
 # Load data
 @st.experimental_memo
