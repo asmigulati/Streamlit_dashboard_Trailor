@@ -42,22 +42,26 @@ st.header("Visualizations")
 st.subheader("Liked/Disliked Itineraries")
 like_dislike_counts = data['liked'].value_counts(normalize=True) * 100
 st.bar_chart(like_dislike_counts)
-
 # Interactive bar chart for top 'n' common destinations
 st.subheader("Top Common Destinations")
 top_n = st.slider("Select number of top destinations", 1, 20, 5)
-top_destinations = data['itinerary.destination'].value_counts(normalize=True).head(top_n) * 100
-st.bar_chart(top_destinations)
+top_destinations = data['itinerary.destination'].value_counts().head(top_n)
+top_destinations_percent = (top_destinations / top_destinations.sum()) * 100
+st.bar_chart(top_destinations_percent)
 
 # Interactive bar chart for top 'n' common origins
 st.subheader("Top Common Origins")
-top_origins = data['itinerary.origin'].value_counts(normalize=True).head(top_n) * 100
-st.bar_chart(top_origins)
+top_n_origins = st.slider("Select number of top origins", 1, 20, 5)
+top_origins = data['itinerary.origin'].value_counts().head(top_n_origins)
+top_origins_percent = (top_origins / top_origins.sum()) * 100
+st.bar_chart(top_origins_percent)
 
 # Interactive bar chart for top 'n' vibes
 st.subheader("Top Vibes")
-top_vibes = data['itinerary.vibe'].value_counts(normalize=True).head(top_n) * 100
-st.bar_chart(top_vibes)
+top_n_vibes = st.slider("Select number of top vibes", 1, 20, 5)
+top_vibes = data['itinerary.vibe'].value_counts().head(top_n_vibes)
+top_vibes_percent = (top_vibes / top_vibes.sum()) * 100
+st.bar_chart(top_vibes_percent)
 
 # Histogram of budget distribution
 st.subheader("Budget Distribution")
