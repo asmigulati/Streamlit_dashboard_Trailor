@@ -20,14 +20,14 @@ def analyze_sentiment(text):
 
 data['sentiment'] = data['text_feedback'].apply(analyze_sentiment)
 
+# Convert to datetime
+data['itinerary.departure'] = pd.to_datetime(data['itinerary.departure'], format='%d-%m-%y')
+
 # Prepare the data for visualizations
 def prepare_chart_data(series, top_n=5):
     chart_data = series.value_counts().head(top_n)
     chart_data_percent = (chart_data / chart_data.sum()) * 100
-    return pd.DataFrame(chart_data_percent).reset_index().rename(columns={'index': 'category', series.name: 'percent'})
-
-# Convert to datetime
-data['itinerary.departure'] = pd.to_datetime(data['itinerary.departure'], format='%d-%m-%y')
+    return chart_data_percent.reset_index().rename(columns={'index': 'category', 0: 'percent'})
 
 # Streamlit layout
 st.title("Itinerary Feedback Analysis Dashboard")
