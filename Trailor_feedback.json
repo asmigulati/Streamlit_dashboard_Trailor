@@ -1,0 +1,1915 @@
+{
+    "feedback_results": [
+        {
+            "itinerary_id": "1",
+            "itinerary": {
+                "origin": "Chandigarh",
+                "destination": "Delhi",
+                "departure": "12-11-23",
+                "number_of_days": 3,
+                "vibe": "relaxing",
+                "budget": 10000
+            },
+            "liked": true,
+            "text_feedback": "I like the detail"
+        },
+        {
+            "itinerary_id": "2",
+            "itinerary": {
+                "origin": "Mumbai",
+                "destination": "Jaipur",
+                "departure": "05-12-23",
+                "number_of_days": 4,
+                "vibe": "historical",
+                "budget": 12000
+            },
+            "liked": true,
+            "text_feedback": "It's fine"
+        },
+        {
+            "itinerary_id": "3",
+            "itinerary": {
+                "origin": "New Delhi",
+                "destination": "Agra",
+                "departure": "17-12-23",
+                "number_of_days": 2,
+                "vibe": "romantic",
+                "budget": 9000
+            },
+            "liked": true,
+            "text_feedback": "It's ok"
+        },
+        {
+            "itinerary_id": "4",
+            "itinerary": {
+                "origin": "Chennai",
+                "destination": "Pondicherry",
+                "departure": "21-11-23",
+                "number_of_days": 3,
+                "vibe": "leisure",
+                "budget": 11000
+            },
+            "liked": true,
+            "text_feedback": ""
+        },
+        {
+            "itinerary_id": "5",
+            "itinerary": {
+                "origin": "Hyderabad",
+                "destination": "Ooty",
+                "departure": "01-12-23",
+                "number_of_days": 3,
+                "vibe": "nature",
+                "budget": 13000
+            },
+            "liked": true,
+            "text_feedback": "Needs more outdoor activities"
+        },
+        {
+            "itinerary_id": "6",
+            "itinerary": {
+                "origin": "Pune",
+                "destination": "Lonavala",
+                "departure": "15-11-23",
+                "number_of_days": 2,
+                "vibe": "adventure",
+                "budget": 8000
+            },
+            "liked": true,
+            "text_feedback": "Include better hotels."
+        },
+        {
+            "itinerary_id": "7",
+            "itinerary": {
+                "origin": "Ahmedabad",
+                "destination": "Udaipur",
+                "departure": "23-11-23",
+                "number_of_days": 4,
+                "vibe": "romantic",
+                "budget": 14000
+            },
+            "liked": true,
+            "text_feedback": ""
+        },
+        {
+            "itinerary_id": "8",
+            "itinerary": {
+                "origin": "Kochi",
+                "destination": "Munnar",
+                "departure": "05-12-23",
+                "number_of_days": 3,
+                "vibe": "relaxing",
+                "budget": 10000
+            },
+            "liked": true,
+            "text_feedback": ""
+        },
+        {
+            "itinerary_id": "9",
+            "itinerary": {
+                "origin": "Lucknow",
+                "destination": "Varanasi",
+                "departure": "12-11-23",
+                "number_of_days": 3,
+                "vibe": "spiritual",
+                "budget": 11000
+            },
+            "liked": true,
+            "text_feedback": "Should include more historical sites!"
+        },
+        {
+            "itinerary_id": "10",
+            "itinerary": {
+                "origin": "Amritsar",
+                "destination": "Dharamshala",
+                "departure": "18-11-23",
+                "number_of_days": 4,
+                "vibe": "adventure",
+                "budget": 9500
+            },
+            "liked": true,
+            "text_feedback": "Add more trekking options"
+        },
+        {
+            "itinerary_id": "11",
+            "itinerary": {
+                "origin": "Srinagar",
+                "destination": "Leh",
+                "departure": "22-11-23",
+                "number_of_days": 5,
+                "vibe": "adventure",
+                "budget": 18000
+            },
+            "liked": true,
+            "text_feedback": "i like the detail"
+        },
+        {
+            "itinerary_id": "12",
+            "itinerary": {
+                "origin": "Kolkata",
+                "destination": "Gangtok",
+                "departure": "30-11-23",
+                "number_of_days": 4,
+                "vibe": "exploration",
+                "budget": 12000
+            },
+            "liked": true,
+            "text_feedback": "Include travel more options"
+        },
+        {
+            "itinerary_id": "13",
+            "itinerary": {
+                "origin": "Mumbai",
+                "destination": "Nashik",
+                "departure": "15-12-23",
+                "number_of_days": 2,
+                "vibe": "spiritual",
+                "budget": 6000
+            },
+            "liked": true,
+            "text_feedback": ""
+        },
+        {
+            "itinerary_id": "14",
+            "itinerary": {
+                "origin": "Bengaluru",
+                "destination": "Coorg",
+                "departure": "27-12-23",
+                "number_of_days": 3,
+                "vibe": "romantic",
+                "budget": 10000
+            },
+            "liked": true,
+            "text_feedback": "want a more relaxed schedule"
+        },
+        {
+            "itinerary_id": "15",
+            "itinerary": {
+                "origin": "Delhi",
+                "destination": "Shimla",
+                "departure": "05-12-23",
+                "number_of_days": 3,
+                "vibe": "family",
+                "budget": 15000
+            },
+            "liked": true,
+            "text_feedback": ""
+        },
+        {
+            "itinerary_id": "16",
+            "itinerary": {
+                "origin": "Jaipur",
+                "destination": "Udaipur",
+                "departure": "10-11-23",
+                "number_of_days": 4,
+                "vibe": "luxury",
+                "budget": 20000
+            },
+            "liked": true,
+            "text_feedback": "Could use more local food reccomendations"
+        },
+        {
+            "itinerary_id": "17",
+            "itinerary": {
+                "origin": "Chennai",
+                "destination": "Kodaikanal",
+                "departure": "24-11-23",
+                "number_of_days": 3,
+                "vibe": "relaxing",
+                "budget": 8500
+            },
+            "liked": true,
+            "text_feedback": "local cuisine spots kahan"
+        },
+        {
+            "itinerary_id": "18",
+            "itinerary": {
+                "origin": "Delhi",
+                "destination": "Rishikesh",
+                "departure": "08-12-23",
+                "number_of_days": 5,
+                "vibe": "adventure",
+                "budget": 16000
+            },
+            "liked": true,
+            "text_feedback": ""
+        },
+        {
+            "itinerary_id": "19",
+            "itinerary": {
+                "origin": "Mumbai",
+                "destination": "Ajanta",
+                "departure": "15-11-23",
+                "number_of_days": 3,
+                "vibe": "historical",
+                "budget": 13000
+            },
+            "liked": true,
+            "text_feedback": "improve the ui, a  bit laggy"
+        },
+        {
+            "itinerary_id": "20",
+            "itinerary": {
+                "origin": "Pune",
+                "destination": "Hampi",
+                "departure": "25-11-23",
+                "number_of_days": 4,
+                "vibe": "exploration",
+                "budget": 11000
+            },
+            "liked": true,
+            "text_feedback": ""
+        },
+        {
+            "itinerary_id": "21",
+            "itinerary": {
+                "origin": "Kolkata",
+                "destination": "Sundarbans",
+                "departure": "05-12-23",
+                "number_of_days": 3,
+                "vibe": "adventure",
+                "budget": 9500
+            },
+            "liked": true,
+            "text_feedback": ""
+        },
+        {
+            "itinerary_id": "22",
+            "itinerary": {
+                "origin": "Indore",
+                "destination": "Ujjain",
+                "departure": "12-11-23",
+                "number_of_days": 2,
+                "vibe": "spiritual",
+                "budget": 5000
+            },
+            "liked": true,
+            "text_feedback": "i like the concept"
+        },
+        {
+            "itinerary_id": "23",
+            "itinerary": {
+                "origin": "Bengaluru",
+                "destination": "Hampi",
+                "departure": "19-11-23",
+                "number_of_days": 4,
+                "vibe": "cultural",
+                "budget": 10000
+            },
+            "liked": true,
+            "text_feedback": "i want cheaper transport"
+        },
+        {
+            "itinerary_id": "24",
+            "itinerary": {
+                "origin": "Amritsar",
+                "destination": "Manali",
+                "departure": "26-11-23",
+                "number_of_days": 5,
+                "vibe": "adventure",
+                "budget": 18000
+            },
+            "liked": true,
+            "text_feedback": ""
+        },
+        {
+            "itinerary_id": "25",
+            "itinerary": {
+                "origin": "Mumbai",
+                "destination": "Lonavala",
+                "departure": "02-12-23",
+                "number_of_days": 2,
+                "vibe": "relaxing",
+                "budget": 7500
+            },
+            "liked": true,
+            "text_feedback": "more accomodation opts"
+        },
+        {
+            "itinerary_id": "26",
+            "itinerary": {
+                "origin": "Delhi",
+                "destination": "Nainital",
+                "departure": "09-11-23",
+                "number_of_days": 3,
+                "vibe": "romantic",
+                "budget": 12000
+            },
+            "liked": false,
+            "text_feedback": "Add more sightseeing spots"
+        },
+        {
+            "itinerary_id": "27",
+            "itinerary": {
+                "origin": "Hyderabad",
+                "destination": "Goa",
+                "departure": "16-11-23",
+                "number_of_days": 5,
+                "vibe": "party",
+                "budget": 20000
+            },
+            "liked": true,
+            "text_feedback": "Could use more nightlife options and clubs"
+        },
+        {
+            "itinerary_id": "28",
+            "itinerary": {
+                "origin": "Chennai",
+                "destination": "Mahabalipuram",
+                "departure": "23-11-23",
+                "number_of_days": 2,
+                "vibe": "leisure",
+                "budget": 6000
+            },
+            "liked": true,
+            "text_feedback": "More local shopping places please"
+        },
+        {
+            "itinerary_id": "29",
+            "itinerary": {
+                "origin": "Ahmedabad",
+                "destination": "Diu",
+                "departure": "07-11-23",
+                "number_of_days": 4,
+                "vibe": "beach",
+                "budget": 12000
+            },
+            "liked": true,
+            "text_feedback": ".."
+        },
+        {
+            "itinerary_id": "30",
+            "itinerary": {
+                "origin": "Kochi",
+                "destination": "Thekkady",
+                "departure": "14-11-23",
+                "number_of_days": 3,
+                "vibe": "wildlife",
+                "budget": 9500
+            },
+            "liked": true,
+            "text_feedback": "More adventure plspls"
+        },
+        {
+            "itinerary_id": "31",
+            "itinerary": {
+                "origin": "Jaipur",
+                "destination": "Pushkar",
+                "departure": "21-12-23",
+                "number_of_days": 2,
+                "vibe": "cultural",
+                "budget": 5000
+            },
+            "liked": true,
+            "text_feedback": "Idk"
+        },
+        {
+            "itinerary_id": "32",
+            "itinerary": {
+                "origin": "Mysuru",
+                "destination": "Bangalore",
+                "departure": "28-11-23",
+                "number_of_days": 3,
+                "vibe": "urban",
+                "budget": 8000
+            },
+            "liked": true,
+            "text_feedback": "nice ig"
+        },
+        {
+            "itinerary_id": "33",
+            "itinerary": {
+                "origin": "Kolkata",
+                "destination": "Puri",
+                "departure": "04-12-23",
+                "number_of_days": 4,
+                "vibe": "spiritual",
+                "budget": 11000
+            },
+            "liked": true,
+            "text_feedback": "good"
+        },
+        {
+            "itinerary_id": "34",
+            "itinerary": {
+                "origin": "Pune",
+                "destination": "Delhi",
+                "departure": "01-01-24",
+                "number_of_days": 4,
+                "vibe": "party",
+                "budget": 10733
+            },
+            "liked": true,
+            "text_feedback": "Just right"
+        },
+        {
+            "itinerary_id": "35",
+            "itinerary": {
+                "origin": "Pune",
+                "destination": "Mumbai",
+                "departure": "10-02-24",
+                "number_of_days": 4,
+                "vibe": "wildlife",
+                "budget": 17367
+            },
+            "liked": true,
+            "text_feedback": "Perfect"
+        },
+        {
+            "itinerary_id": "36",
+            "itinerary": {
+                "origin": "Kochi",
+                "destination": "Pune",
+                "departure": "02-03-24",
+                "number_of_days": 3,
+                "vibe": "wildlife",
+                "budget": 5025
+            },
+            "liked": true,
+            "text_feedback": "Looks great"
+        },
+        {
+            "itinerary_id": "37",
+            "itinerary": {
+                "origin": "Kolkata",
+                "destination": "Delhi",
+                "departure": "26-12-23",
+                "number_of_days": 4,
+                "vibe": "nature",
+                "budget": 7162
+            },
+            "liked": true,
+            "text_feedback": "Too short"
+        },
+        {
+            "itinerary_id": "38",
+            "itinerary": {
+                "origin": "Bangalore",
+                "destination": "Mumbai",
+                "departure": "24-02-24",
+                "number_of_days": 4,
+                "vibe": "historical",
+                "budget": 19363
+            },
+            "liked": true,
+            "text_feedback": "Prefer different"
+        },
+        {
+            "itinerary_id": "39",
+            "itinerary": {
+                "origin": "Jaipur",
+                "destination": "Chennai",
+                "departure": "16-03-24",
+                "number_of_days": 4,
+                "vibe": "adventure",
+                "budget": 18963
+            },
+            "liked": true,
+            "text_feedback": "Looks great"
+        },
+        {
+            "itinerary_id": "40",
+            "itinerary": {
+                "origin": "Lucknow",
+                "destination": "Hyderabad",
+                "departure": "27-04-24",
+                "number_of_days": 4,
+                "vibe": "wildlife",
+                "budget": 16931
+            },
+            "liked": true,
+            "text_feedback": "Love it"
+        },
+        {
+            "itinerary_id": "41",
+            "itinerary": {
+                "origin": "Hyderabad",
+                "destination": "Kolkata",
+                "departure": "08-03-24",
+                "number_of_days": 3,
+                "vibe": "romantic",
+                "budget": 11889
+            },
+            "liked": true,
+            "text_feedback": "Prefer different"
+        },
+        {
+            "itinerary_id": "42",
+            "itinerary": {
+                "origin": "Lucknow",
+                "destination": "Delhi",
+                "departure": "11-02-24",
+                "number_of_days": 4,
+                "vibe": "nature",
+                "budget": 16765
+            },
+            "liked": true,
+            "text_feedback": "Love it"
+        },
+        {
+            "itinerary_id": "43",
+            "itinerary": {
+                "origin": "Delhi",
+                "destination": "Kolkata",
+                "departure": "02-03-24",
+                "number_of_days": 2,
+                "vibe": "spiritual",
+                "budget": 6112
+            },
+            "liked": true,
+            "text_feedback": "Prefer different"
+        },
+        {
+            "itinerary_id": "44",
+            "itinerary": {
+                "origin": "Pune",
+                "destination": "Delhi",
+                "departure": "18-05-24",
+                "number_of_days": 5,
+                "vibe": "adventure",
+                "budget": 18061
+            },
+            "liked": true,
+            "text_feedback": "Love it"
+        },
+        {
+            "itinerary_id": "45",
+            "itinerary": {
+                "origin": "Chennai",
+                "destination": "Kochi",
+                "departure": "04-05-24",
+                "number_of_days": 3,
+                "vibe": "leisure",
+                "budget": 7703
+            },
+            "liked": true,
+            "text_feedback": "Too pricey"
+        },
+        {
+            "itinerary_id": "46",
+            "itinerary": {
+                "origin": "Lucknow",
+                "destination": "Delhi",
+                "departure": "28-01-24",
+                "number_of_days": 5,
+                "vibe": "adventure",
+                "budget": 9631
+            },
+            "liked": true,
+            "text_feedback": "Looks great"
+        },
+        {
+            "itinerary_id": "47",
+            "itinerary": {
+                "origin": "Pune",
+                "destination": "Jaipur",
+                "departure": "29-02-24",
+                "number_of_days": 4,
+                "vibe": "urban",
+                "budget": 13009
+            },
+            "liked": true,
+            "text_feedback": "Too pricey"
+        },
+        {
+            "itinerary_id": "48",
+            "itinerary": {
+                "origin": "Pune",
+                "destination": "Mumbai",
+                "departure": "03-02-24",
+                "number_of_days": 2,
+                "vibe": "party",
+                "budget": 7193
+            },
+            "liked": true,
+            "text_feedback": "Love it"
+        },
+        {
+            "itinerary_id": "49",
+            "itinerary": {
+                "origin": "Kochi",
+                "destination": "Lucknow",
+                "departure": "02-03-24",
+                "number_of_days": 4,
+                "vibe": "wildlife",
+                "budget": 10263
+            },
+            "liked": true,
+            "text_feedback": "Not for me"
+        },
+        {
+            "itinerary_id": "50",
+            "itinerary": {
+                "origin": "Bangalore",
+                "destination": "Jaipur",
+                "departure": "08-03-24",
+                "number_of_days": 2,
+                "vibe": "spiritual",
+                "budget": 5258
+            },
+            "liked": true,
+            "text_feedback": "Not for me"
+        },
+        {
+            "itinerary_id": "51",
+            "itinerary": {
+                "origin": "Bangalore",
+                "destination": "Mumbai",
+                "departure": "16-02-24",
+                "number_of_days": 3,
+                "vibe": "beach",
+                "budget": 7585
+            },
+            "liked": true,
+            "text_feedback": "Looks great"
+        },
+        {
+            "itinerary_id": "52",
+            "itinerary": {
+                "origin": "Chennai",
+                "destination": "Delhi",
+                "departure": "03-02-24",
+                "number_of_days": 2,
+                "vibe": "urban",
+                "budget": 16166
+            },
+            "liked": true,
+            "text_feedback": "Ideal plan"
+        },
+        {
+            "itinerary_id": "53",
+            "itinerary": {
+                "origin": "Jaipur",
+                "destination": "Hyderabad",
+                "departure": "13-01-24",
+                "number_of_days": 5,
+                "vibe": "wildlife",
+                "budget": 16401
+            },
+            "liked": true,
+            "text_feedback": "Too pricey"
+        },
+        {
+            "itinerary_id": "54",
+            "itinerary": {
+                "origin": "Hyderabad",
+                "destination": "Chennai",
+                "departure": "05-05-24",
+                "number_of_days": 5,
+                "vibe": "relaxing",
+                "budget": 7332
+            },
+            "liked": true,
+            "text_feedback": "Not for me"
+        },
+        {
+            "itinerary_id": "55",
+            "itinerary": {
+                "origin": "Pune",
+                "destination": "Kochi",
+                "departure": "21-03-24",
+                "number_of_days": 4,
+                "vibe": "historical",
+                "budget": 14010
+            },
+            "liked": true,
+            "text_feedback": "Not sure"
+        },
+        {
+            "itinerary_id": "56",
+            "itinerary": {
+                "origin": "Lucknow",
+                "destination": "Pune",
+                "departure": "01-05-24",
+                "number_of_days": 4,
+                "vibe": "wildlife",
+                "budget": 12801
+            },
+            "liked": true,
+            "text_feedback": "Too pricey"
+        },
+        {
+            "itinerary_id": "57",
+            "itinerary": {
+                "origin": "Mumbai",
+                "destination": "Hyderabad",
+                "departure": "30-01-24",
+                "number_of_days": 4,
+                "vibe": "wildlife",
+                "budget": 19970
+            },
+            "liked": true,
+            "text_feedback": "Just right"
+        },
+        {
+            "itinerary_id": "58",
+            "itinerary": {
+                "origin": "Kolkata",
+                "destination": "Kolkata",
+                "departure": "20-12-23",
+                "number_of_days": 5,
+                "vibe": "cultural",
+                "budget": 19623
+            },
+            "liked": true,
+            "text_feedback": "Love it"
+        },
+        {
+            "itinerary_id": "59",
+            "itinerary": {
+                "origin": "Bangalore",
+                "destination": "Pune",
+                "departure": "29-11-23",
+                "number_of_days": 5,
+                "vibe": "beach",
+                "budget": 9188
+            },
+            "liked": false,
+            "text_feedback": "Not for me"
+        },
+        {
+            "itinerary_id": "60",
+            "itinerary": {
+                "origin": "Kochi",
+                "destination": "Kolkata",
+                "departure": "14-01-24",
+                "number_of_days": 2,
+                "vibe": "nature",
+                "budget": 13913
+            },
+            "liked": false,
+            "text_feedback": "Not for me"
+        },
+        {
+            "itinerary_id": "61",
+            "itinerary": {
+                "origin": "Mumbai",
+                "destination": "Bangalore",
+                "departure": "17-01-24",
+                "number_of_days": 2,
+                "vibe": "cultural",
+                "budget": 10202
+            },
+            "liked": false,
+            "text_feedback": "Too short"
+        },
+        {
+            "itinerary_id": "62",
+            "itinerary": {
+                "origin": "Kolkata",
+                "destination": "Chennai",
+                "departure": "03-12-23",
+                "number_of_days": 2,
+                "vibe": "beach",
+                "budget": 10017
+            },
+            "liked": true,
+            "text_feedback": "Ideal plan"
+        },
+      {
+        "itinerary_id": "63",
+        "itinerary": {
+          "origin": "Mumbai",
+          "destination": "Bangalore",
+          "departure": "05-01-24",
+          "number_of_days": 5,
+          "vibe": "spiritual",
+          "budget": 15075
+        },
+        "liked": false,
+        "text_feedback": "Too pricey"
+      },
+      {
+        "itinerary_id": "63",
+        "itinerary": {
+          "origin": "Mumbai",
+          "destination": "Goa",
+          "departure": "05-12-23",
+          "number_of_days": 4,
+          "vibe": "party",
+          "budget": 15000
+        },
+        "liked": false,
+        "text_feedback": "Too expensive"
+      },
+      {
+        "itinerary_id": "64",
+        "itinerary": {
+          "origin": "Delhi",
+          "destination": "Shimla",
+          "departure": "08-12-23",
+          "number_of_days": 3,
+          "vibe": "mountain",
+          "budget": 8000
+        },
+        "liked": true,
+        "text_feedback": "Perfect getaway"
+      },
+      {
+        "itinerary_id": "64",
+        "itinerary": {
+          "origin": "Delhi",
+          "destination": "Shimla",
+          "departure": "08-12-23",
+          "number_of_days": 3,
+          "vibe": "mountain",
+          "budget": 8000
+        },
+        "liked": true,
+        "text_feedback": "Perfect getaway"
+      },
+      {
+        "itinerary_id": "65",
+        "itinerary": {
+          "origin": "Bangalore",
+          "destination": "Mysore",
+          "departure": "12-12-23",
+          "number_of_days": 2,
+          "vibe": "historical",
+          "budget": 12000
+        },
+        "liked": true,
+        "text_feedback": "Love the historical sites"
+      },
+      {
+        "itinerary_id": "66",
+        "itinerary": {
+          "origin": "Chandigarh",
+          "destination": "Amritsar",
+          "departure": "15-12-23",
+          "number_of_days": 3,
+          "vibe": "spiritual",
+          "budget": 9000
+        },
+        "liked": false,
+        "text_feedback": "Not enough days for exploring"
+      },
+      {
+        "itinerary_id": "66",
+        "itinerary": {
+          "origin": "Chandigarh",
+          "destination": "Amritsar",
+          "departure": "15-12-23",
+          "number_of_days": 3,
+          "vibe": "spiritual",
+          "budget": 9000
+        },
+        "liked": false,
+        "text_feedback": "Not enough days for exploring"
+      },
+      {
+        "itinerary_id": "68",
+        "itinerary": {
+          "origin": "Hyderabad",
+          "destination": "Vizag",
+          "departure": "22-12-23",
+          "number_of_days": 3,
+          "vibe": "coastal",
+          "budget": 12000
+        },
+        "liked": false,
+        "text_feedback": "Needs more activities"
+      },
+      {
+        "itinerary_id": "69",
+        "itinerary": {
+          "origin": "Pune",
+          "destination": "Mahabaleshwar",
+          "departure": "25-12-23",
+          "number_of_days": 4,
+          "vibe": "hill station",
+          "budget": 15000
+        },
+        "liked": true,
+        "text_feedback": "Great escape into nature"
+      },
+      {
+        "itinerary_id": "70",
+        "itinerary": {
+          "origin": "Lucknow",
+          "destination": "Varanasi",
+          "departure": "28-12-23",
+          "number_of_days": 2,
+          "vibe": "spiritual",
+          "budget": 10000
+        },
+        "liked": true,
+        "text_feedback": "Spiritually uplifting"
+      },
+      {
+        "itinerary_id": "71",
+        "itinerary": {
+          "origin": "Ahmedabad",
+          "destination": "Rann of Kutch",
+          "departure": "02-01-24",
+          "number_of_days": 3,
+          "vibe": "desert",
+          "budget": 11000
+        },
+        "liked": false,
+        "text_feedback": "Too short for a desert trip"
+      },
+      {
+        "itinerary_id": "72",
+        "itinerary": {
+          "origin": "Bhopal",
+          "destination": "Bhimbetka",
+          "departure": "06-01-24",
+          "number_of_days": 2,
+          "vibe": "archaeological",
+          "budget": 8000
+        },
+        "liked": true,
+        "text_feedback": "Fascinating historical sites"
+      },
+      {
+        "itinerary_id": "73",
+        "itinerary": {
+          "origin": "Chennai",
+          "destination": "Pondicherry",
+          "departure": "10-01-24",
+          "number_of_days": 3,
+          "vibe": "seaside",
+          "budget": 13000
+        },
+        "liked": false,
+        "text_feedback": "Expected more seaside activities"
+      },
+      {
+        "itinerary_id": "74",
+        "itinerary": {
+          "origin": "Guwahati",
+          "destination": "Shillong",
+          "departure": "14-01-24",
+          "number_of_days": 4,
+          "vibe": "scenic",
+          "budget": 16000
+        },
+        "liked": true,
+        "text_feedback": "Scenic beauty at its best"
+      },
+      {
+        "itinerary_id": "75",
+        "itinerary": {
+          "origin": "Coimbatore",
+          "destination": "Ooty",
+          "departure": "18-01-24",
+          "number_of_days": 3,
+          "vibe": "hill station",
+          "budget": 12000
+        },
+        "liked": true,
+        "text_feedback": "Cool climate and great views"
+      },
+      {
+        "itinerary_id": "76",
+        "itinerary": {
+          "origin": "Nagpur",
+          "destination": "Nagaland",
+          "departure": "22-01-24",
+          "number_of_days": 5,
+          "vibe": "cultural",
+          "budget": 18000
+        },
+        "liked": false,
+        "text_feedback": "Cultural experience but too long"
+      },
+      {
+        "itinerary_id": "77",
+        "itinerary": {
+          "origin": "Trivandrum",
+          "destination": "Kovalam",
+          "departure": "26-01-24",
+          "number_of_days": 2,
+          "vibe": "beach",
+          "budget": 10000
+        },
+        "liked": true,
+        "text_feedback": "Relaxing beach time"
+      },
+      {
+        "itinerary_id": "78",
+        "itinerary": {
+          "origin": "Agra",
+          "destination": "Fatehpur Sikri",
+          "departure": "30-01-24",
+          "number_of_days": 2,
+          "vibe": "historical",
+          "budget": 9000
+        },
+        "liked": false,
+        "text_feedback": "Wanted more historical sites"
+      },
+      {
+        "itinerary_id": "79",
+        "itinerary": {
+          "origin": "Rishikesh",
+          "destination": "Haridwar",
+          "departure": "03-02-24",
+          "number_of_days": 3,
+          "vibe": "spiritual",
+          "budget": 11000
+        },
+        "liked": true,
+        "text_feedback": "Serene spiritual journey"
+      },
+      {
+        "itinerary_id": "80",
+        "itinerary": {
+          "origin": "Dehradun",
+          "destination": "Mussoorie",
+          "departure": "07-02-24",
+          "number_of_days": 4,
+          "vibe": "hill station",
+          "budget": 14000
+        },
+        "liked": true,
+        "text_feedback": "Refreshing hill station experience"
+      },
+      {
+        "itinerary_id": "81",
+        "itinerary": {
+          "origin": "Bhubaneswar",
+          "destination": "Puri",
+          "departure": "11-02-24",
+          "number_of_days": 2,
+          "vibe": "seaside",
+          "budget": 10000
+        },
+        "liked": false,
+        "text_feedback": "Expected more seaside activities"
+      },
+      {
+        "itinerary_id": "82",
+        "itinerary": {
+          "origin": "Thiruvananthapuram",
+          "destination": "Alappuzha",
+          "departure": "15-02-24",
+          "number_of_days": 3,
+          "vibe": "backwaters",
+          "budget": 13000
+        },
+        "liked": true,
+        "text_feedback": "Peaceful backwater experience"
+      },
+      {
+        "itinerary_id": "83",
+        "itinerary": {
+          "origin": "Jaipur",
+          "destination": "Pushkar",
+          "departure": "19-02-24",
+          "number_of_days": 3,
+          "vibe": "cultural",
+          "budget": 12000
+        },
+        "liked": true,
+        "text_feedback": "Great cultural experience, but could use more activities"
+      },
+      {
+        "itinerary_id": "84",
+        "itinerary": {
+          "origin": "Ahmedabad",
+          "destination": "Gir National Park",
+          "departure": "11-03-24",
+          "number_of_days": 3,
+          "vibe": "wildlife",
+          "budget": 14000
+        },
+        "liked": true,
+        "text_feedback": "Amazing wildlife experience!"
+      },
+      {
+        "itinerary_id": "85",
+        "itinerary": {
+          "origin": "Kochi",
+          "destination": "Thekkady",
+          "departure": "15-03-24",
+          "number_of_days": 4,
+          "vibe": "adventure",
+          "budget": 16000
+        },
+        "liked": false,
+        "text_feedback": "Expected more adventure activities"
+      },
+      {
+        "itinerary_id": "86",
+        "itinerary": {
+          "origin": "Shillong",
+          "destination": "Dawki",
+          "departure": "19-03-24",
+          "number_of_days": 2,
+          "vibe": "scenic",
+          "budget": 10000
+        },
+        "liked": true,
+        "text_feedback": "Breath-taking scenic beauty"
+      },
+      {
+        "itinerary_id": "87",
+        "itinerary": {
+          "origin": "Srinagar",
+          "destination": "Gulmarg",
+          "departure": "07-03-24",
+          "number_of_days": 5,
+          "vibe": "snow",
+          "budget": 18000
+        },
+        "liked": true,
+        "text_feedback": "Loved the snowy experience, but wished for more activities"
+      },
+      {
+        "itinerary_id": "88",
+        "itinerary": {
+          "origin": "Mysore",
+          "destination": "Coorg",
+          "departure": "27-03-24",
+          "number_of_days": 4,
+          "vibe": "nature",
+          "budget": 15000
+        },
+        "liked": false,
+        "text_feedback": "Expected more nature-related activities"
+      },
+      {
+        "itinerary_id": "89",
+        "itinerary": {
+          "origin": "Udaipur",
+          "destination": "Mount Abu",
+          "departure": "23-03-24",
+          "number_of_days": 3,
+          "vibe": "hill station",
+          "budget": 12000
+        },
+        "liked": true,
+        "text_feedback": "Serene hill station experience"
+      },
+      {
+        "itinerary_id": "90",
+        "itinerary": {
+          "origin": "Chandigarh",
+          "destination": "Kasauli",
+          "departure": "02-04-24",
+          "number_of_days": 2,
+          "vibe": "relaxing",
+          "budget": 9000
+        },
+        "liked": true,
+        "text_feedback": "Perfect short and relaxing getaway"
+      },
+      {
+        "itinerary_id": "91",
+        "itinerary": {
+          "origin": "Puri",
+          "destination": "Konark",
+          "departure": "06-04-24",
+          "number_of_days": 3,
+          "vibe": "historical",
+          "budget": 11000
+        },
+        "liked": false,
+        "text_feedback": "Expected more historical sites"
+      },
+      {
+        "itinerary_id": "93",
+        "itinerary": {
+          "origin": "Aurangabad",
+          "destination": "Ellora Caves",
+          "departure": "10-04-24",
+          "number_of_days": 3,
+          "vibe": "historical",
+          "budget": 12000
+        },
+        "liked": true,
+        "text_feedback": "Fascinating historical journey"
+      },
+      {
+        "itinerary_id": "94",
+        "itinerary": {
+          "origin": "Mumbai",
+          "destination": "Lavasa",
+          "departure": "08-05-24",
+          "number_of_days": 3,
+          "vibe": "relaxing",
+          "budget": 11000
+        },
+        "liked": true,
+        "text_feedback": "Lavasa provided a serene and relaxing break"
+      }, 
+      {
+        "itinerary_id": "95",
+        "itinerary": {
+            "origin": "Mumbai",
+            "destination": "Goa",
+            "departure": "10-01-24",
+            "number_of_days": 3,
+            "vibe": "beach",
+            "budget": 12000
+        },
+        "liked": true,
+        "text_feedback": "Great itinerary! Loved the beach recommendations."
+    },
+    {
+        "itinerary_id": "96",
+        "itinerary": {
+            "origin": "Delhi",
+            "destination": "Agra",
+            "departure": "15-01-24",
+            "number_of_days": 2,
+            "vibe": "historical",
+            "budget": 8000
+        },
+        "liked": false,
+        "text_feedback": "Needs more detailed historical site information."
+    },
+    {
+        "itinerary_id": "97",
+        "itinerary": {
+            "origin": "Chennai",
+            "destination": "Pondicherry",
+            "departure": "20-01-24",
+            "number_of_days": 3,
+            "vibe": "relaxing",
+            "budget": 10000
+        },
+        "liked": true,
+        "text_feedback": ""
+    },
+    {
+        "itinerary_id": "98",
+        "itinerary": {
+            "origin": "Bengaluru",
+            "destination": "Ooty",
+            "departure": "25-01-24",
+            "number_of_days": 4,
+            "vibe": "nature",
+            "budget": 15000
+        },
+        "liked": false,
+        "text_feedback": "Include more nature trails in Ooty."
+    },
+    {
+        "itinerary_id": "99",
+        "itinerary": {
+            "origin": "Jaipur",
+            "destination": "Jodhpur",
+            "departure": "05-02-24",
+            "number_of_days": 3,
+            "vibe": "historical",
+            "budget": 11000
+        },
+        "liked": true,
+        "text_feedback": ""
+    },
+    {
+        "itinerary_id": "100",
+        "itinerary": {
+            "origin": "Lucknow",
+            "destination": "Agra",
+            "departure": "10-02-24",
+            "number_of_days": 2,
+            "vibe": "historical",
+            "budget": 9000
+        },
+        "liked": false,
+        "text_feedback": "Include more dining options in Agra."
+    },
+    {
+        "itinerary_id": "101",
+        "itinerary": {
+            "origin": "Kolkata",
+            "destination": "Darjeeling",
+            "departure": "15-02-24",
+            "number_of_days": 4,
+            "vibe": "nature",
+            "budget": 13000
+        },
+        "liked": true,
+        "text_feedback": ""
+    },
+    {
+        "itinerary_id": "102",
+        "itinerary": {
+            "origin": "Amritsar",
+            "destination": "Amritsar",
+            "departure": "20-02-24",
+            "number_of_days": 2,
+            "vibe": "spiritual",
+            "budget": 7500
+        },
+        "liked": false,
+        "text_feedback": "The origin and destination are the same. Please check."
+    },
+    {
+        "itinerary_id": "103",
+        "itinerary": {
+            "origin": "Mumbai",
+            "destination": "Kerala",
+            "departure": "25-02-24",
+            "number_of_days": 5,
+            "vibe": "relaxing",
+            "budget": 18000
+        },
+        "liked": true,
+        "text_feedback": ""
+    },
+    {
+        "itinerary_id": "104",
+        "itinerary": {
+            "origin": "Pune",
+            "destination": "Mahabaleshwar",
+            "departure": "01-03-24",
+            "number_of_days": 3,
+            "vibe": "nature",
+            "budget": 9500
+        },
+        "liked": false,
+        "text_feedback": "Include more activities in Mahabaleshwar."
+    },
+    {
+        "itinerary_id": "105",
+        "itinerary": {
+            "origin": "Delhi",
+            "destination": "Manali",
+            "departure": "05-03-24",
+            "number_of_days": 4,
+            "vibe": "adventure",
+            "budget": 14000
+        },
+        "liked": true,
+        "text_feedback": ""
+    },
+    {
+      "itinerary_id": "106",
+      "itinerary": {
+          "origin": "Jaipur",
+          "destination": "Pushkar",
+          "departure": "10-03-24",
+          "number_of_days": 2,
+          "vibe": "spiritual",
+          "budget": 8000
+      },
+      "liked": false,
+      "text_feedback": "Include more information about spiritual sites in Pushkar."
+  },
+  {
+      "itinerary_id": "107",
+      "itinerary": {
+          "origin": "Chennai",
+          "destination": "Kanyakumari",
+          "departure": "15-03-24",
+          "number_of_days": 3,
+          "vibe": "scenic",
+          "budget": 12000
+      },
+      "liked": true,
+      "text_feedback": ""
+  },
+  {
+      "itinerary_id": "108",
+      "itinerary": {
+          "origin": "Bengaluru",
+          "destination": "Hampi",
+          "departure": "20-03-24",
+          "number_of_days": 4,
+          "vibe": "historical",
+          "budget": 14000
+      },
+      "liked": true,
+      "text_feedback": "Great historical recommendations!"
+  },
+  {
+      "itinerary_id": "109",
+      "itinerary": {
+          "origin": "Lucknow",
+          "destination": "Nainital",
+          "departure": "25-03-24",
+          "number_of_days": 3,
+          "vibe": "nature",
+          "budget": 10000
+      },
+      "liked": false,
+      "text_feedback": "Needs more options for nature enthusiasts."
+  },
+  {
+      "itinerary_id": "110",
+      "itinerary": {
+          "origin": "Mumbai",
+          "destination": "Shirdi",
+          "departure": "01-04-24",
+          "number_of_days": 2,
+          "vibe": "spiritual",
+          "budget": 7500
+      },
+      "liked": true,
+      "text_feedback": ""
+  },
+  {
+      "itinerary_id": "111",
+      "itinerary": {
+          "origin": "Delhi",
+          "destination": "Haridwar",
+          "departure": "05-04-24",
+          "number_of_days": 2,
+          "vibe": "spiritual",
+          "budget": 8500
+      },
+      "liked": false,
+      "text_feedback": "Include more spiritual activities in Haridwar."
+  },
+  {
+      "itinerary_id": "112",
+      "itinerary": {
+          "origin": "Pune",
+          "destination": "Lavasa",
+          "departure": "10-04-24",
+          "number_of_days": 2,
+          "vibe": "relaxing",
+          "budget": 6000
+      },
+      "liked": true,
+      "text_feedback": ""
+  },
+  {
+      "itinerary_id": "113",
+      "itinerary": {
+          "origin": "Kolkata",
+          "destination": "Sundarbans",
+          "departure": "15-04-24",
+          "number_of_days": 3,
+          "vibe": "wildlife",
+          "budget": 11000
+      },
+      "liked": true,
+      "text_feedback": "Excellent wildlife recommendations!"
+  },
+  {
+      "itinerary_id": "114",
+      "itinerary": {
+          "origin": "Amritsar",
+          "destination": "Chandigarh",
+          "departure": "20-04-24",
+          "number_of_days": 2,
+          "vibe": "urban",
+          "budget": 8000
+      },
+      "liked": false,
+      "text_feedback": "Needs more information about urban attractions in Chandigarh."
+  },
+  {
+      "itinerary_id": "115",
+      "itinerary": {
+          "origin": "Jaipur",
+          "destination": "Bikaner",
+          "departure": "25-04-24",
+          "number_of_days": 3,
+          "vibe": "historical",
+          "budget": 9500
+      },
+      "liked": true,
+      "text_feedback": ""
+  },
+  {
+      "itinerary_id": "116",
+      "itinerary": {
+          "origin": "Chennai",
+          "destination": "Mamallapuram",
+          "departure": "01-05-24",
+          "number_of_days": 2,
+          "vibe": "historical",
+          "budget": 7000
+      },
+      "liked": false,
+      "text_feedback": "Include more historical site details."
+  },
+  {
+      "itinerary_id": "117",
+      "itinerary": {
+          "origin": "Bengaluru",
+          "destination": "Mysuru",
+          "departure": "05-05-24",
+          "number_of_days": 3,
+          "vibe": "cultural",
+          "budget": 9000
+      },
+      "liked": true,
+      "text_feedback": ""
+  },
+  {
+      "itinerary_id": "118",
+      "itinerary": {
+          "origin": "Lucknow",
+          "destination": "Varanasi",
+          "departure": "10-05-24",
+          "number_of_days": 2,
+          "vibe": "spiritual",
+          "budget": 7500
+      },
+      "liked": true,
+      "text_feedback": "Add more spiritual activities in Varanasi."
+  },
+  {
+      "itinerary_id": "119",
+      "itinerary": {
+          "origin": "Mumbai",
+          "destination": "Matheran",
+          "departure": "15-05-24",
+          "number_of_days": 2,
+          "vibe": "nature",
+          "budget": 7000
+      },
+      "liked": true,
+      "text_feedback": ""
+  },
+  {
+      "itinerary_id": "120",
+      "itinerary": {
+          "origin": "Delhi",
+          "destination": "Ranthambore",
+          "departure": "20-05-24",
+          "number_of_days": 3,
+          "vibe": "wildlife",
+          "budget": 11000
+      },
+      "liked": true,
+      "text_feedback": "Excellent wildlife recommendations!"
+  },
+  {
+      "itinerary_id": "121",
+      "itinerary": {
+          "origin": "Pune",
+          "destination": "Mahabaleshwar",
+          "departure": "25-05-24",
+          "number_of_days": 2,
+          "vibe": "nature",
+          "budget": 8000
+      },
+      "liked": false,
+      "text_feedback": "Include more nature activities in Mahabaleshwar."
+  },
+  {
+      "itinerary_id": "122",
+      "itinerary": {
+          "origin": "Kolkata",
+          "destination": "Sundarbans",
+          "departure": "01-06-24",
+          "number_of_days": 3,
+          "vibe": "wildlife",
+          "budget": 12000
+      },
+      "liked": true,
+      "text_feedback": ""
+  },
+  {
+      "itinerary_id": "123",
+      "itinerary": {
+          "origin": "Amritsar",
+          "destination": "Amritsar",
+          "departure": "05-06-24",
+          "number_of_days": 2,
+          "vibe": "spiritual",
+          "budget": 7500
+      },
+      "liked": true,
+      "text_feedback": "The origin and destination are the same. Please check."
+  },
+  {
+      "itinerary_id": "124",
+      "itinerary": {
+          "origin": "Mumbai",
+          "destination": "Kerala",
+          "departure": "10-06-24",
+          "number_of_days": 5,
+          "vibe": "relaxing",
+          "budget": 18000
+      },
+      "liked": true,
+      "text_feedback": ""
+  },
+  {
+      "itinerary_id": "125",
+      "itinerary": {
+          "origin": "Delhi",
+          "destination": "Manali",
+          "departure": "15-06-24",
+          "number_of_days": 4,
+          "vibe": "adventure",
+          "budget": 14000
+      },
+      "liked": true,
+      "text_feedback": "Well-curated adventure itinerary!"
+  },
+  {
+      "itinerary_id": "126",
+      "itinerary": {
+          "origin": "Jaipur",
+          "destination": "Pushkar",
+          "departure": "20-06-24",
+          "number_of_days": 2,
+          "vibe": "spiritual",
+          "budget": 8000
+      },
+      "liked": true,
+      "text_feedback": "Include more information about spiritual sites in Pushkar."
+  },
+  {
+      "itinerary_id": "127",
+      "itinerary": {
+          "origin": "Chennai",
+          "destination": "Kanyakumari",
+          "departure": "25-06-24",
+          "number_of_days": 3,
+          "vibe": "scenic",
+          "budget": 12000
+      },
+      "liked": true,
+      "text_feedback": ""
+  },
+  {
+      "itinerary_id": "128",
+      "itinerary": {
+          "origin": "Bengaluru",
+          "destination": "Hampi",
+          "departure": "01-07-24",
+          "number_of_days": 4,
+          "vibe": "historical",
+          "budget": 14000
+      },
+      "liked": true,
+      "text_feedback": "Great historical recommendations!"
+  },
+  {
+    "itinerary_id": "129",
+    "itinerary": {
+        "origin": "Lucknow",
+        "destination": "Kanpur",
+        "departure": "10-07-24",
+        "number_of_days": 1,
+        "vibe": "quick getaway",
+        "budget": 5000
+    },
+    "liked": true,
+    "text_feedback": "Needs more activities for a quick getaway."
+},
+{
+    "itinerary_id": "130",
+    "itinerary": {
+        "origin": "Delhi",
+        "destination": "Jaipur",
+        "departure": "15-07-24",
+        "number_of_days": 2,
+        "vibe": "historical",
+        "budget": 8000
+    },
+    "liked": true,
+    "text_feedback": ""
+},
+{
+    "itinerary_id": "131",
+    "itinerary": {
+        "origin": "Mumbai",
+        "destination": "Matheran",
+        "departure": "20-07-24",
+        "number_of_days": 2,
+        "vibe": "nature",
+        "budget": 6000
+    },
+    "liked": true,
+    "text_feedback": "Great nature recommendations!"
+},
+{
+    "itinerary_id": "132",
+    "itinerary": {
+        "origin": "Chennai",
+        "destination": "Puducherry",
+        "departure": "25-07-24",
+        "number_of_days": 3,
+        "vibe": "relaxing",
+        "budget": 10000
+    },
+    "liked": true,
+    "text_feedback": "Include more information about relaxing spots in Puducherry."
+},
+{
+    "itinerary_id": "133",
+    "itinerary": {
+        "origin": "Bengaluru",
+        "destination": "Coorg",
+        "departure": "01-08-24",
+        "number_of_days": 3,
+        "vibe": "nature",
+        "budget": 9000
+    },
+    "liked": true,
+    "text_feedback": ""
+},
+{
+    "itinerary_id": "134",
+    "itinerary": {
+        "origin": "Amritsar",
+        "destination": "Chandigarh",
+        "departure": "05-08-24",
+        "number_of_days": 2,
+        "vibe": "urban",
+        "budget": 7500
+    },
+    "liked": true,
+    "text_feedback": "Needs more information about urban attractions in Chandigarh."
+},
+{
+    "itinerary_id": "135",
+    "itinerary": {
+        "origin": "Jaipur",
+        "destination": "Bikaner",
+        "departure": "10-08-24",
+        "number_of_days": 3,
+        "vibe": "historical",
+        "budget": 9500
+    },
+    "liked": true,
+    "text_feedback": ""
+},
+{
+    "itinerary_id": "136",
+    "itinerary": {
+        "origin": "Lucknow",
+        "destination": "Varanasi",
+        "departure": "15-08-24",
+        "number_of_days": 2,
+        "vibe": "spiritual",
+        "budget": 7500
+    },
+    "liked": true,
+    "text_feedback": "Add more spiritual activities in Varanasi."
+},
+{
+    "itinerary_id": "137",
+    "itinerary": {
+        "origin": "Mumbai",
+        "destination": "Matheran",
+        "departure": "20-08-24",
+        "number_of_days": 2,
+        "vibe": "nature",
+        "budget": 7000
+    },
+    "liked": true,
+    "text_feedback": ""
+},
+{
+    "itinerary_id": "138",
+    "itinerary": {
+        "origin": "Delhi",
+        "destination": "Ranthambore",
+        "departure": "25-08-24",
+        "number_of_days": 3,
+        "vibe": "wildlife",
+        "budget": 11000
+    },
+    "liked": true,
+    "text_feedback": "Excellent wildlife recommendations!"
+},
+{
+    "itinerary_id": "139",
+    "itinerary": {
+        "origin": "Pune",
+        "destination": "Mahabaleshwar",
+        "departure": "01-09-24",
+        "number_of_days": 2,
+        "vibe": "nature",
+        "budget": 8000
+    },
+    "liked": true,
+    "text_feedback": "Include more nature activities in Mahabaleshwar."
+},
+{
+    "itinerary_id": "140",
+    "itinerary": {
+        "origin": "Kolkata",
+        "destination": "Sundarbans",
+        "departure": "05-09-24",
+        "number_of_days": 3,
+        "vibe": "wildlife",
+        "budget": 12000
+    },
+    "liked": true,
+    "text_feedback": ""
+},
+{
+    "itinerary_id": "141",
+    "itinerary": {
+        "origin": "Amritsar",
+        "destination": "Amritsar",
+        "departure": "10-09-24",
+        "number_of_days": 2,
+        "vibe": "spiritual",
+        "budget": 7500
+    },
+    "liked": true,
+    "text_feedback": "The origin and destination are the same. Please check."
+},
+{
+    "itinerary_id": "142",
+    "itinerary": {
+        "origin": "Mumbai",
+        "destination": "Kerala",
+        "departure": "15-09-24",
+        "number_of_days": 5,
+        "vibe": "relaxing",
+        "budget": 18000
+    },
+    "liked": true,
+    "text_feedback": ""
+},
+{
+    "itinerary_id": "143",
+    "itinerary": {
+        "origin": "Delhi",
+        "destination": "Manali",
+        "departure": "20-09-24",
+        "number_of_days": 4,
+        "vibe": "adventure",
+        "budget": 14000
+    },
+    "liked": true,
+    "text_feedback": "Well-curated adventure itinerary!"
+},
+{
+    "itinerary_id": "144",
+    "itinerary": {
+        "origin": "Jaipur",
+        "destination": "Pushkar",
+        "departure": "25-09-24",
+        "number_of_days": 2,
+        "vibe": "spiritual",
+        "budget": 8000
+    },
+    "liked": true,
+    "text_feedback": "Include more information about spiritual sites in Pushkar."
+},
+{
+    "itinerary_id": "145",
+    "itinerary": {
+        "origin": "Chennai",
+        "destination": "Kanyakumari",
+        "departure": "01-10-24",
+        "number_of_days": 3,
+        "vibe": "scenic",
+        "budget": 12000
+    },
+    "liked": true,
+    "text_feedback": ""
+},
+{
+    "itinerary_id": "146",
+    "itinerary": {
+        "origin": "Bengaluru",
+        "destination": "Hampi",
+        "departure": "05-10-24",
+        "number_of_days": 4,
+        "vibe": "historical",
+        "budget": 14000
+    },
+    "liked": true,
+    "text_feedback": "Great historical recommendations!"
+}
+    ]
+}
