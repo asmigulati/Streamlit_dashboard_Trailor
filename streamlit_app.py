@@ -86,9 +86,13 @@ with st.container():
         st.bar_chart(top_vibes_chart_data.set_index('Vibe'))
 
     with col2:
+    
         st.subheader("Budget Distribution")
-        sns.histplot(data['itinerary.budget'], kde=True)
-        st.pyplot(plt)
+        # Create histogram data for the budget
+        count, bins = np.histogram(data['itinerary.budget'], bins=20)
+        bins = 0.5 * (bins[:-1] + bins[1:])  # Convert bin edges to centers
+        budget_hist_data = pd.DataFrame({'Budget': bins, 'Count': count})
+        st.bar_chart(budget_hist_data.set_index('Budget'))
 
 with st.container():
     st.subheader("Itineraries Over Time")
