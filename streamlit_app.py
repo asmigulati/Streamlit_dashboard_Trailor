@@ -2,7 +2,9 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-from textblob import TextBlob  # for sentiment analysis
+from textblob import TextBlob
+import json
+# for sentiment analysis
 
 # Load data
 @st.cache
