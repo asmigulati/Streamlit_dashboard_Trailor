@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import plotly.express as px
 import matplotlib.pyplot as plt
 import seaborn as sns
 from textblob import TextBlob
@@ -87,15 +88,9 @@ with st.container():
         st.bar_chart(top_vibes_chart_data.set_index('Vibe'))
 
     with col2:
-    
         st.subheader("Budget Distribution")
-        # Create histogram data for the budget
-        count, bins = np.histogram(data['itinerary.budget'], bins=20)
-        bins = 0.5 * (bins[:-1] + bins[1:])  # Convert bin edges to centers
-        budget_hist_data = pd.DataFrame({'Budget': bins, 'Count': count})
-        st.bar_chart(budget_hist_data.set_index('Budget'))
+        # Create a histogram with KDE for the budget using Plotly
+        fig = px.histogram(data, x='itinerary.budget', nbins=20, marginal='violin', title='Distribution of Budgets')
+        fig.update_layout(bargap=0.1)
+        st.plotly_chart(fig, use_container_width=True)
 
-with st.container():
-    st.subheader("Itineraries Over Time")
-    sns.lineplot(x='itinerary.departure', y='liked', data=data)
-    st.pyplot(plt)
