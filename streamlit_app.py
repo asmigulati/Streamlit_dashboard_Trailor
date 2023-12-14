@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from textblob import TextBlob
 import json
-# for sentiment analysis
 
 # Load data
 @st.cache
@@ -39,16 +38,26 @@ st.dataframe(filtered_data)
 # Visualization
 st.header("Visualizations")
 
-# Bar chart for count of itineraries per destination
-st.subheader("Itineraries Count per Destination")
-destination_count = data['itinerary.destination'].value_counts()
-st.bar_chart(destination_count)
+# Percentage of liked/disliked itineraries
+st.subheader("Liked/Disliked Itineraries")
+like_dislike_counts = data['liked'].value_counts(normalize=True) * 100
+st.bar_chart(like_dislike_counts)
 
-# Pie chart for vibes distribution
-st.subheader("Vibes Distribution")
-vibes_count = data['itinerary.vibe'].value_counts()
-plt.pie(vibes_count, labels=vibes_count.index, autopct='%1.1f%%')
-st.pyplot(plt)
+# Interactive bar chart for top 'n' common destinations
+st.subheader("Top Common Destinations")
+top_n = st.slider("Select number of top destinations", 1, 20, 5)
+top_destinations = data['itinerary.destination'].value_counts(normalize=True).head(top_n) * 100
+st.bar_chart(top_destinations)
+
+# Interactive bar chart for top 'n' common origins
+st.subheader("Top Common Origins")
+top_origins = data['itinerary.origin'].value_counts(normalize=True).head(top_n) * 100
+st.bar_chart(top_origins)
+
+# Interactive bar chart for top 'n' vibes
+st.subheader("Top Vibes")
+top_vibes = data['itinerary.vibe'].value_counts(normalize=True).head(top_n) * 100
+st.bar_chart(top_vibes)
 
 # Histogram of budget distribution
 st.subheader("Budget Distribution")
@@ -64,5 +73,3 @@ st.pyplot(plt)
 # Sentiment Analysis
 st.header("Sentiment Analysis of Feedback")
 st.bar_chart(data['sentiment'])
-
-# Run the app with `streamlit run your_script.py`
