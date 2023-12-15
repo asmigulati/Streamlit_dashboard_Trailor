@@ -73,7 +73,7 @@ def pil_to_plotly(pil_img):
     return fig
 
 # Streamlit layout for word cloud
-st.header("Interactive Word Cloud")
+st.header("Word Cloud")
 text_feedback_combined = " ".join(data['text_feedback'].dropna())
 wordcloud_img = generate_wordcloud(text_feedback_combined)
 wordcloud_fig = pil_to_plotly(wordcloud_img)
