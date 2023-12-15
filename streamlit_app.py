@@ -55,7 +55,27 @@ with st.expander("Itinerary Details"):
     else:
         filtered_data = data
     st.dataframe(filtered_data)
+    
+# Function to generate word cloud
+def generate_wordcloud(text):
+    wordcloud = WordCloud(width = 800, height = 800, background_color ='white').generate(text)
+    return wordcloud.to_image()
 
+# Function to convert PIL image to Plotly figure
+def pil_to_plotly(pil_img):
+    img = np.array(pil_img)
+    fig = px.imshow(img)
+    fig.update_layout(coloraxis_showscale=False)
+    fig.update_xaxes(showticklabels=False)
+    fig.update_yaxes(showticklabels=False)
+    return fig
+
+# Streamlit layout for word cloud
+st.header("Interactive Word Cloud")
+text_feedback_combined = " ".join(data['text_feedback'].dropna())
+wordcloud_img = generate_wordcloud(text_feedback_combined)
+wordcloud_fig = pil_to_plotly(wordcloud_img)
+st.plotly_chart(wordcloud_fig, use_container_width=True)
 st.header("Visualizations")
 
 with st.container():
