@@ -39,6 +39,7 @@ with st.container():
     with col3:
         st.subheader("Average Budget")
         st.write(f"{data['itinerary.budget'].mean():.2f}")
+    st.header("Overview Statistics")
     with col4:
         st.subheader("Average Time Spent on site")
         st.write(f"{34}s")
