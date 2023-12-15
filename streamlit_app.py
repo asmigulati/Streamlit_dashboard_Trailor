@@ -63,7 +63,7 @@ def generate_wordcloud(text):
     def grey_color_func(word, font_size, position, orientation, random_state=None, **kwargs):
         return "hsl(0, 0%%, %d%%)" % np.random.randint(60, 100)
 
-    wordcloud = WordCloud(width = 800, height = 800,
+    wordcloud = WordCloud(width = 1000, height = 1000,
                           background_color ='black',
                           color_func=grey_color_func,
                           min_font_size = 10).generate(text)
