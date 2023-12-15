@@ -6,6 +6,8 @@ import seaborn as sns
 from textblob import TextBlob
 import json
 import numpy as np
+from wordcloud import WordCloud
+
 
 # Load data
 @st.experimental_memo
