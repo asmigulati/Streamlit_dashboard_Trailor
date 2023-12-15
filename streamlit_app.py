@@ -29,7 +29,7 @@ st.title("Itinerary Feedback Analysis Dashboard")
 
 with st.container():
     st.header("Overview Statistics")
-    col1, col2, col3 = st.columns(3)
+    col1, col2, col3, col4, col5 = st.columns(5)
     with col1:
         st.subheader("Total Itineraries")
         st.write(f"{len(data)}")
@@ -39,6 +39,13 @@ with st.container():
     with col3:
         st.subheader("Average Budget")
         st.write(f"{data['itinerary.budget'].mean():.2f}")
+    with col4:
+        st.subheader("Average Time Spent on site")
+        st.write(f"{34}s")
+    with col5:
+        st.subheader("Total Visitors")
+        st.write("228")
+    
 
 with st.expander("Itinerary Details"):
     origin_filter = st.selectbox("Select Origin", options=['All'] + sorted(data['itinerary.origin'].unique()))
